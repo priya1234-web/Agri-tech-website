@@ -3,7 +3,7 @@
 
 | Home Page | Importance | Contact |
 |:---------:|:----------:|:-------:|
-| ![Home](images/home.png) | ![Importance](images/importance.png) | ![Contact](images/contact.png) |
+| ![Home](images/home.jpg) | ![Importance](images/role.jpg) | ![Contact](images/contact.jpg) |
 
 
 ---
