@@ -1,10 +1,10 @@
 ---
+## 📷 Website Preview
 
-## 📸 Website Preview
+| Home Page | Importance | Contact |
+|:---------:|:----------:|:-------:|
+| ![Home](images/home.png) | ![Importance](images/importance.png) | ![Contact](images/contact.png) |
 
-| Home Page | Importance             | Methods                 | Contact       |
-|-----------|------------------------|--------------------------|---------------|
-| ![](home.png) | ![](role.png)<br>![](i1.png) | ![](images/practices.png) | ![](contact.png) |
 
 ---
 
